@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>proj_ioc_xml</module>
+        <module>proj_ioc_xml_practice</module>
     </modules>
 
     <properties>
