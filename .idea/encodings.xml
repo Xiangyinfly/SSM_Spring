@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/proj_annotation_java_practice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_annotation_java_practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj_aop_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj_aop_annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_ioc_annotation_java/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_ioc_annotation_java/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_ioc_annotation_java_practice/src/main/java" charset="UTF-8" />
@@ -13,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/proj_ioc_xml/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_ioc_xml_practice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj_ioc_xml_practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj_test_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj_test_annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

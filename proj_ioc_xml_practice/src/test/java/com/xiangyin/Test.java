@@ -23,7 +23,7 @@ public class Test {
         //jdbcTemplate.query();
     }
 
-    @org.junit.Test
+    @org.junit.jupiter.api.Test
     public void test1() {
         ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring01.xml");
         JdbcTemplate jdbcTemplate = applicationContext.getBean(JdbcTemplate.class);
@@ -63,7 +63,7 @@ public class Test {
         System.out.println(query);
     }
 
-    @org.junit.Test
+    @org.junit.jupiter.api.Test
     public void test2() {
         ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("spring02.xml");
         StudentController studentController = classPathXmlApplicationContext.getBean(StudentController.class);

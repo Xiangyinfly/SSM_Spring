@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/proj_annotation_java_practice/pom.xml" />
+        <option value="$PROJECT_DIR$/proj_test_annotation/pom.xml" />
       </set>
     </option>
   </component>

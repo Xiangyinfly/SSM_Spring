@@ -2,7 +2,7 @@ package com.ioc.test;
 
 import com.ioc.Test01;
 import com.ioc.factoryBean.JavaBean;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
