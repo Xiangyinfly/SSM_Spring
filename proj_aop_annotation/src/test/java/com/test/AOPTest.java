@@ -15,7 +15,7 @@ public class AOPTest {
 
     @Test
     public void test1() {
-        int add = calculate.add(1,2);
+        int add = calculate.add(1,1);
         System.out.println(add);
     }
 }

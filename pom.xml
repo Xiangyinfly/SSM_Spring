@@ -15,6 +15,7 @@
         <module>proj_ioc_annotation_java</module>
         <module>proj_ioc_annotation_java_practice</module>
         <module>proj_aop_annotation</module>
+        <module>proj_tx_annotation</module>
     </modules>
 
     <properties>
@@ -74,6 +75,12 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aspects</artifactId>
+            <version>6.0.11</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-tx -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
             <version>6.0.11</version>
         </dependency>
 
